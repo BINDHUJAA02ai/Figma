@@ -144,7 +144,8 @@ CSS
 }
 ```
 PAGE 2:
-HTM
+```
+HTML
 <div class="container--0-">
   <img
     src=""
@@ -290,6 +291,7 @@ CSS
 }
 ```
 PAGE 3:
+
 ```
 HTML
 <img
@@ -324,8 +326,10 @@ CSS
   text-align: left;
   vertical-align: top;
 }
+
 ```
 PAGE 4:
+
 ```
 HTML
 <div class="container--0-">
@@ -374,6 +378,7 @@ CSS
   text-align: left;
   vertical-align: top;
 }
+
 ```
 
 
